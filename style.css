@@ -1,0 +1,10 @@
+@font-face {
+	font-family: FiraMono;
+	src: url(https://github.com/mozilla/Fira/blob/master/ttf/FiraMono-Regular.ttf?raw=true);
+}
+
+body {
+	color: #dfdfdf;
+	background-color: #222222;
+	font-family: FiraMono;
+}
